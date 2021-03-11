@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Kim Tholstorf",
-    "label": "Father of girls and DevOps by trade",
+    "label": "Father of girls. DevOps by trade",
     "picture": "https://kimtholstorf.github.io/images/avatar_w.png",
     "email": "kim@tholstorf.dk",
     "phone": "53676878",
     "website": "darkcloud.dk",
-    "summary": "Senior Solutions Engineer @ VMware. Specialised in high performance computing, cloudnative architecture and dark humor. ",
+    "summary": "Specialised in high performance computing, cloudnative architecture and dark humor. ",
     "location": {
       "address": "",
       "postalCode": "2630",
@@ -34,12 +34,12 @@
   },
   "interests": [
     {
-      "name": "great scifi books",
+      "name": "scifi books",
       "keywords": [
       ]
     },
     {
-      "name": "kubernetes and modern applications",
+      "name": "the next thing (tm)",
       "keywords": [
       ]
     },
