@@ -51,13 +51,13 @@
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
+      "name": "Languages",
       "level": "",
       "keywords": [
         "C++",
         "Ruby"
         "Python",
-        "shell scripting"
+        "Shell scripting"
       ]
     },
     {
