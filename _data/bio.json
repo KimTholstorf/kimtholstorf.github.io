@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Kim Tholstorf",
-    "label": "Father of girls. SecOps by trade.",
+    "label": "Father of girls. DevSecOps by trade.",
     "picture": "https://kimtholstorf.github.io/images/avatar_w.png",
     "email": "kim@tholstorf.dk",
     "phone": "53676878",
@@ -51,23 +51,21 @@
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
+      "name": "Languages",
       "level": "",
       "keywords": [
-        "C",
-        "C++",
+        "Python",
         "Ruby",
-        "Javascript",
-        "Python"
+        "Shell scripting"
       ]
     },
     {
-      "name": "Toolsets/OS",
+      "name": "Platforms",
       "level": "",
       "keywords": [
         "MacOS",
         "Ubuntu",
-        "Solaris",
+        "Solaris and SmartOS",
         "VMware",
         "Kubernetes"
       ]
