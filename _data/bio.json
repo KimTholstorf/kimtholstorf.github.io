@@ -54,20 +54,19 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "C",
         "C++",
-        "Ruby",
-        "Javascript",
-        "Python"
+        "Ruby"
+        "Python",
+        "shell scripting"
       ]
     },
     {
-      "name": "Toolsets/OS",
+      "name": "Platforms",
       "level": "",
       "keywords": [
         "MacOS",
         "Ubuntu",
-        "Solaris",
+        "Solaris/SmartOS",
         "VMware",
         "Kubernetes"
       ]
